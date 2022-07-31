@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 😄 Pronouns: he/they
+- 😄 Pronouns: he/him
 - 🔭 I’m currently working on Skyvlab and Harbane SMP
 - 🌱 I’m currently learning python, intrested in API's and soon to learn Javascript
 - ⚡ Fun fact: 
