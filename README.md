@@ -1,6 +1,5 @@
-### Hi there 👋
+### Haroon Ahmad
 
-- 🔭 I’m currently working on Skyvlab and Harbane SMP
-- 🌱 I’m currently learning python, intrested in API's and game dev
-- ⚡ Fun fact: 
-- 📫 How to reach me: haroon@skyvlab.com
+Projects: [Harbane Network](https://harbane.net) <br >
+Business: [skyvlab.com](https://skyvlab.com) <br >
+Email: haroon@skyvlab.com <br >
